@@ -1,4 +1,4 @@
-package ConditionalsControlFlow;
+package conditionalscontrolflow;
 /*
 we’re going to practice the switch statement in Java so you can hone your skills and feel confident
 taking them to the real world. 7 continents, 7 cities, 1 expression. You got this!

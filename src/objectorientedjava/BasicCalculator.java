@@ -1,4 +1,4 @@
-package ObjectOrientedJava;
+package objectorientedjava;
 
 /*
 we’re going to practice Classes, Methods, Objects in Java so you can hone your skills and feel confident

@@ -1,4 +1,4 @@
-package ConditionalsControlFlow;
+package conditionalscontrolflow;
 /*
 we’re going to practice conditionals in Java so you can hone your skills and feel confident taking them to the real world.
 Let’s combine a few of the concepts that you have learned so far: conditionals, Boolean expressions, and arithmethic expressions.

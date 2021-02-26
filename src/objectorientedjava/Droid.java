@@ -1,4 +1,4 @@
-package ObjectOrientedJava;
+package objectorientedjava;
 
 /*
 Practice object-oriented Java by creating a Droid class and creating different instances of Droid.
