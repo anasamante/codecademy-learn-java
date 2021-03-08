@@ -23,13 +23,13 @@ public class Language {
         System.out.println("The language follows the word order: " + this.wordOrder + ".");
     }
 
-
-
     public static void main(String[] args) {
         Language mayan = new Mayan("Ki'che'", 2000);
         Language mandarin = new SinoTibetan("Mandarin Chinese", 5558846);
         Language burmese = new SinoTibetan("Burmese", 65253);
-
-        
+        Language[] languages = {mayan, mandarin, burmese};
+        for (Language lan: languages) {
+            lan.getInfo();
+        }
     }
 }
